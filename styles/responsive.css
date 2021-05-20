@@ -1,0 +1,12 @@
+@media(max-width:920px){
+    .left-box{
+        display: none;
+        
+    }
+
+    .right-box{
+        align-items: center;
+        width: 100%;
+        padding-left: 0;
+    }
+}
